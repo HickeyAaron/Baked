@@ -26,6 +26,7 @@ Divide 40g by 3 = 13.33g. For simplicity add 13g, 13g, 14g of each of the flours
 1. **Starter Feeding:** First feed the sourdough. How far in advance you intend to do the further steps will dictate how you feed the starter to make your levain. The further in advance you prepare the levain the more greater the food and water proportion is to the starter, in order for it to continue having food to consume. 
 
 IF overnight: 1:2:2 Starter:FlourMix:water
+
 IF sameday: 1:1:1 Starter:FlourMix:water
 
 Prepare at least 100g of the levain per boule in your 1L glass jar (e.g. 40g:40g:40g Starter:FlourMix:Water) and put a rubber band around the height it is currently at. Ideally you want this to double in size prior to mixing with the main dough. 
