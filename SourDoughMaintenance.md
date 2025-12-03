@@ -28,7 +28,7 @@ Divide 40g by 3 = 13.33g. For simplicity add 13g, 13g, 14g of each of the flours
 IF overnight: 1:2:2 Starter:FlourMix:water
 IF sameday: 1:1:1 Starter:FlourMix:water
 
-Add the levain to your 1L glass jar and put a rubber band around the height it is currently at. Ideally you want this to double in size prior to mixing with the main dough. 
+Prepare at least 100g of the levain per boule in your 1L glass jar (e.g. 40g:40g:40g Starter:FlourMix:Water) and put a rubber band around the height it is currently at. Ideally you want this to double in size prior to mixing with the main dough. 
 
 2. **Autolyse:** We are essentially hydrating the flour here by mixing the water and flour. For a standard loaf typically we would use:
 - 400g of white bread flour
@@ -37,8 +37,12 @@ Add the levain to your 1L glass jar and put a rubber band around the height it i
 
 Mix together for 5 mins to form a shaggy dough. Leave to rest for ~2 hours.
 
-3. **Add the starter:**Once the levai
-4. **Stretch & Fold:**
-5. **Shaping:**
-6. **Bulk ferment:**
-7. **Bake:**
+3. **Add the starter:** Once the levain has doubled in size and the dough autolysed for 2 hours, it's time to add them together. Weigh 100g of the levain and add to the dough along with 8-10g of salt. Mix well for at least 5 minutes. Leave to rest for at least 40 minutes.
+
+4. **Stretch & Fold:** Generally we want at least 4 rounds of stretch and folds. The idea here is to stretch the dough as far as it can go without breaking. It should get stronger and more homogenous with each stretch round and ideally even bubbles forming. The reason bubbles are a good sign is the stretching "builds" the gluten in the dough. Building the gluten in the dough means the fibers are more aligned which makes it denser. This prevents air from escaping as easily and will mean the dough should rise as air is heated inside and expands during baking.
+
+5. **(Optional) Seed mix: **
+6. **Shaping:**
+7. **Bulk ferment:**
+8. **Bake:**
+9. EAT
