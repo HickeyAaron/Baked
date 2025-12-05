@@ -54,7 +54,7 @@ Feed based on how far ahead you’re preparing:
 | Overnight | 1:2:2 |
 | Same day  | 1:1:1 |
 
-Prepare **at least 100g levain per loaf**.  
+Prepare **at least 100g levain per loaf**. This usually means a 125g inital mix.
 Mark level with a rubber band — it should **double in size** before use.
 
 ---
