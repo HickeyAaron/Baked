@@ -4,7 +4,7 @@
 White bread flour, Wholemeal bread flour, Rye flour, salt, starter, water, mixed seeds (optional).
 
 ### Utensils
-Baking bowel, 250ml glass jar, wooden spoon, prooving basket, dutch oven dish, 1L glass jar, digital scales.
+Baking bowel, 250ml glass jar, wooden spoon, prooving basket, dutch oven dish, 1L glass jar, digital scales, rasor blade.
 
 ### Terms
 **Levain:** When starter is mixed with flour and water
@@ -43,7 +43,15 @@ Mix together for 5 mins to form a shaggy dough. Leave to rest for ~2 hours.
 4. **Stretch & Fold:** Generally we want at least 4 rounds of stretch and folds. The idea here is to stretch the dough as far as it can go without breaking. It should get stronger and more homogenous with each stretch round and ideally even bubbles forming. The reason bubbles are a good sign is the stretching "builds" the gluten in the dough. Building the gluten in the dough means the fibers are more aligned which makes it denser. This prevents air from escaping as easily and will mean the dough should rise as air is heated inside and expands during baking.
 
 5. **(Optional) Seed mix: **
+Put 60g per loaf mixed seeds on a tray and toast in the oven for 6 minutes. Add 15g of water into the seeds and mix. On the second stretch and fold, stretch out the dough and spread the seeds over it. Fold it over and continue the stretch and fold as normal and the seeds should spread through naturally.
+
 6. **Shaping:**
+After at least four stretch and fold sessions, put the dough on a dry surface and genently stretch out four corners into a rough square, as far as it will go without tearing. Take two corners and fold into the middle and then take the opposite two corners and fold into the middle just overlapping the other side you just put in the middle. This should then be a narrow rectangle shape facing lenthways away from you. Take the two corners closest to you and slowly roll up the dough but while rolling up fold each corner inwards. You want to try make this quite tight. Once rolled you have a basic boule, we now want to shape the boule and build up as much tension as possible on the outside. The technique here is to push the dough away from you on the table and then pull it back again, using the friction between the table and the dough to help shape and build the tension. Eventually after several rounds of this push/pull you should have a reasonably spherical and smooth dough. 
+
 7. **Bulk ferment:**
+Once the dough is shaped you should preflour the prooving basket sides and pop the dough in. This then can be placed in the fridge overnight or at least 8 hours. The longer you leave it here the more sour it will taste.
+
 8. **Bake:**
-9. EAT
+Pre-heat the oven to 250℃ with the dutch oven inside with the lid on for 45-60 minutes. Take the dough out of the fridge immedaitely before adding to the dutch oven. Add the dough to the dutch oven base and use the rasor blade to slice a line down the middle and do whatever designs you prefer. Close the lid, place back in the oven and bake for 30 minutes. After 30 minutes turn the temperature down to 200℃ and bank for a further 40 minutes. 
+
+10. **EAT**
