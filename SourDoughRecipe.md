@@ -24,6 +24,10 @@ Divide 40g by 3 = 13.33g. For simplicity add 13g, 13g, 14g of each of the flours
 
 ## **SourDough instructions:**
 1. **Starter Feeding:** First feed the sourdough. How far in advance you intend to do the further steps will dictate how you feed the starter to make your levain. The further in advance you prepare the levain the more greater the food and water proportion is to the starter, in order for it to continue having food to consume. 
+| Timing | Ratio |
+|--------|-------|
+|overnight| 1:2:2|
+|sameday|1:2:2|
 
 IF overnight: 1:2:2 Starter:FlourMix:water
 
