@@ -82,8 +82,13 @@ Rest **40 minutes**.
 ---
 
 ### 4. Stretch & Fold
-Perform **4 rounds**.  
-Dough should strengthen, smooth out, and form bubbles — a sign of gluten development.
+Perform **at least 4 rounds**, spaced ~30 mins apart.
+
+**Why it matters:**  
+Stretching aligns gluten strands, making the dough stronger and more elastic.  
+As gluten develops, the dough can **trap gas more efficiently**, allowing better rise, open crumb structure, and bigger bubbles.
+
+Each round should feel smoother, stronger, and more airy — this is your gluten network forming.
 
 ---
 
@@ -115,7 +120,7 @@ Refrigerate **overnight (8+ hours)** — longer = more sour.
 2. Remove dough from fridge immediately before baking.
 3. Score and place into Dutch oven.
 4. Bake **30 mins covered**, then
-5. Reduce heat to **200°C** and bake **40 mins uncovered**.
+5. Reduce heat to **200°C** and bake **40 mins**.
 
 ---
 
