@@ -1,4 +1,4 @@
-# Sourdough boule receipe
+# Sourdough boule recipe
 
 ### Ingredients
 White bread flour, Wholemeal bread flour, Rye flour, salt, starter, water, mixed seeds (optional).
