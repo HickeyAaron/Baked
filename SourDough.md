@@ -83,13 +83,13 @@ Rest **40 minutes**.
 ---
 
 ### 4. Stretch & Fold
-Perform **at least 4 rounds**, spaced ~45 mins apart.
+Perform **at least 4 rounds**, spaced 30-45 mins apart.
 
 **Why it matters:**  
 Stretching aligns gluten strands, making the dough stronger and more elastic.  
 As gluten develops, the dough can **trap gas more efficiently**, allowing better rise, open crumb structure, and bigger bubbles.
 
-Each round should feel smoother, stronger, and more airy — this is your gluten network forming.
+Each round should feel smoother, stronger, and more airy — this is your gluten network forming. While it is important to allow sufficient time in between rounds, it should be completed as quickly as possible as over-proofing will prevent the loaf adequately rising.
 
 ---
 
