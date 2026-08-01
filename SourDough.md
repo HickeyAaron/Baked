@@ -109,7 +109,7 @@ Each round should feel smoother, stronger, and more airy — this is your gluten
 5. Take the top corners and fold into the middle and the other remaining corners in.
 7. Roll tightly into a log, tucking edges as you go.
 
-I found this YouTube[https://www.youtube.com/shorts/j07eq9StA68] short good for learning the technique. 
+I found this [YouTube short][https://www.youtube.com/shorts/j07eq9StA68) good for learning the technique. 
 
 ---
 
