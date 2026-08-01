@@ -94,7 +94,7 @@ Each round should feel smoother, stronger, and more airy — this is your gluten
 ---
 
 ### 5. (Optional) Seed Mix
-1. Toast **60g mixed seeds per loaf** for 6 minutes at 200&degC depending on how dark you want them.  
+1. Toast **60g mixed seeds per loaf** for 6 minutes at 200&deg;C depending on how dark you want them.  
 2. Mix in **15g water**.  
 3. Add during the *second* stretch & fold.  
    Seeds will distribute naturally afterward.
@@ -120,11 +120,11 @@ Refrigerate **overnight (8+ hours)** — longer = more sour.
 ---
 
 ### 8. Bake
-1. Preheat oven to **250°C** with Dutch oven inside (45–60 mins).
+1. Preheat oven to **250&deg;C** with Dutch oven inside (45–60 mins).
 2. Remove dough from fridge immediately before baking.
 3. Place into Dutch oven and score.
 4. Bake **30 mins**, then
-5. Reduce heat to **200°C** and bake **40 mins** (optional: uncovered).
+5. Reduce heat to **200&deg;C** and bake **40 mins** (optional: uncovered).
 
 ---
 
