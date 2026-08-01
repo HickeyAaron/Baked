@@ -34,6 +34,7 @@
 1. Weigh your starter and transfer to a clean 250ml jar (ideally ≤ 50g).
 2. Feed using a **1:1:1 ratio** (starter:flour:water).  
    Use a mix of all three flour types for best results.
+   This ration can be adjusted depending on how long you want the interval to be in between feeds. I often do 1:5:5 or 10g starter:50g flour (mix of equal white, wholemeal, rye): water as I usually do two loafs at a time. It also depends on fridge temperature.
 
 **Example:**  
 - Starter: **40g**  
@@ -47,14 +48,14 @@ Mix well and store in the fridge with the lid **loosely on** to allow gas escape
 ## Sourdough Instructions
 
 ### 1. Starter Feeding
-Feed based on how far ahead you’re preparing:
+Feed based on how far ahead you’re preparing and the temperature of your kitchen:
 
 | Timing | Ratio (Starter:FlourMix:Water) |
 |--------|--------------------------------|
-| Overnight | 1:2:2 |
+| Overnight | 1:5:5 |
 | Same day  | 1:1:1 |
 
-Prepare **at least 100g levain per loaf**. This usually means a 125g inital mix.
+Prepare **at least 100g levain per loaf**. This usually means a 125g initial mix.
 Mark level with a rubber band — it should **double in size** before use.
 
 ---
@@ -82,7 +83,7 @@ Rest **40 minutes**.
 ---
 
 ### 4. Stretch & Fold
-Perform **at least 4 rounds**, spaced ~30 mins apart.
+Perform **at least 4 rounds**, spaced ~45 mins apart.
 
 **Why it matters:**  
 Stretching aligns gluten strands, making the dough stronger and more elastic.  
@@ -93,19 +94,22 @@ Each round should feel smoother, stronger, and more airy — this is your gluten
 ---
 
 ### 5. (Optional) Seed Mix
-1. Toast **60g mixed seeds per loaf** for 6 minutes.  
+1. Toast **60g mixed seeds per loaf** for 6 minutes at 200&degC depending on how dark you want them.  
 2. Mix in **15g water**.  
 3. Add during the *second* stretch & fold.  
    Seeds will distribute naturally afterward.
 
 ---
 
-### 6. Shape the Boule
-1. Place dough on an unfloured surface.  
+### 6. Shape the batard
+1. Place dough on a floured surface.  
 2. Stretch into a loose square.  
-3. Fold all four corners into the center.  
-4. Roll tightly into a log, tucking edges as you go.  
-5. Build tension by pushing and pulling dough across table until smooth and round.
+3. First pull the bottom edge towards you and fold into the middle.
+4. Take each sides of this fold and fold both edges into the middle.
+5. Take the top corners and fold into the middle and the other remaining corners in.
+7. Roll tightly into a log, tucking edges as you go.
+
+I found this YouTube[https://www.youtube.com/shorts/j07eq9StA68] short good for learning the technique. 
 
 ---
 
@@ -118,9 +122,9 @@ Refrigerate **overnight (8+ hours)** — longer = more sour.
 ### 8. Bake
 1. Preheat oven to **250°C** with Dutch oven inside (45–60 mins).
 2. Remove dough from fridge immediately before baking.
-3. Score and place into Dutch oven.
-4. Bake **30 mins covered**, then
-5. Reduce heat to **200°C** and bake **40 mins**.
+3. Place into Dutch oven and score.
+4. Bake **30 mins**, then
+5. Reduce heat to **200°C** and bake **40 mins** (optional: uncovered).
 
 ---
 
