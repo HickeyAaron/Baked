@@ -1,4 +1,4 @@
-# Sourdough Boule Recipe
+# Sourdough Recipe
 
 ---
 
