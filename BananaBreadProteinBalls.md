@@ -20,8 +20,6 @@
 ## Terms
 Sprinkle mix: A mixture of equal parts dessicated coconut, chia seeds and mixed seeds.
 
----
-
 ## Instructions
 
 ### 1. 
