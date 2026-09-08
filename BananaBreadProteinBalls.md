@@ -37,9 +37,9 @@ Add peanut butter, vanilla and cinnamon and mix well.
 ### 3.
 Add sprinkle mix, oats, two scoops of protein powder and mix. 
 
-Then add 1\2 a cup of water/oatmilk and mix thoroughly. The ideal consistency is a thick batter or runny cookie dough consistency. 
+Then add $\frac{1}{2}$ a cup of water/oatmilk and mix thoroughly. The ideal consistency is a thick batter or runny cookie dough consistency. 
 The balls will dry out once in the fridge if they are not moist enough when rolled.
-Some manual adjustment might be required depending on your protein powder: To make thicker, sprinkle in more protein power (No more than 1/3 of a scoop at a time). 
+Some manual adjustment might be required depending on your protein powder: To make thicker, sprinkle in more protein power (No more than $\frac{1}{3}$ of a scoop at a time). 
 To make runnier, add more water/oatmilk. 
 ---
 
