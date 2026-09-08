@@ -1,7 +1,5 @@
 # No bake Banana bread protein balls Recipe
 
----
-
 ## Ingredients
 - Banana × 2
 - Protein powder (vegan works best for binding) × 2-3 scoops
