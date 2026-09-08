@@ -1,4 +1,4 @@
-# No bake Banana bread protein balls Recipe
+# No bake Banana bread protein balls Recipe 🍌💪🏻
 
 ## Ingredients
 - Banana × 2
@@ -42,5 +42,5 @@ To make runnier, add more water/oatmilk.
 Once the desired consistency has been reached, make golf ball or smaller sized balls and roll in dessicated coconut to give a final coating. 
 
 ### STEP 5.
-Enjoy, share if you’re feeling generous. 🥖
+Enjoy, share if you’re feeling generous. 🍌💪🏻
 They will last up to five days in the fridge. 
