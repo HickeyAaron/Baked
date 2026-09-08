@@ -22,23 +22,25 @@ Sprinkle mix: A mixture of equal parts dessicated coconut, chia seeds and mixed 
 
 ## Instructions
 
-### 1. 
-Mash bananas in a bowel with a fork until mushy. 
+### STEP 1. 
+Mash bananas in a bowl with a fork until mushy. 
 
-### 2.
+### STEP 2.
 Add peanut butter, vanilla and cinnamon and mix well. 
 
-### 3.
+### STEP 3.
 Add sprinkle mix, oats, two scoops of protein powder and mix. 
 
 Then add $\frac{1}{2}$ a cup of water/oatmilk and mix thoroughly. The ideal consistency is a thick batter or runny cookie dough consistency. 
-The balls will dry out once in the fridge if they are not moist enough when rolled.
+The balls will dry out once in the fridge if they are not moist enough when rolled. It may be easier to mix with your hands at this point.
+
+
 Some manual adjustment might be required depending on your protein powder: To make thicker, sprinkle in more protein power (No more than $\frac{1}{3}$ of a scoop at a time). 
 To make runnier, add more water/oatmilk. 
 
-### 4.
+### STEP 4.
 Once the desired consistency has been reached, make golf ball or smaller sized balls and roll in dessicated coconut to give a final coating. 
 
-### 5. EAT
+### STEP 5.
 Enjoy, share if you’re feeling generous. 🥖
 They will last up to five days in the fridge. 
