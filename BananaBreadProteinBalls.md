@@ -19,7 +19,8 @@
 - Table and teaspoons
 
 ## Terms
-**Sprinkle mix:** A mixture of equal parts dessicated coconut, chia seeds and mixed seeds.
+Sprinkle mix: A mixture of equal parts dessicated coconut, chia seeds and mixed seeds.
+
 ---
 
 ## Instructions
