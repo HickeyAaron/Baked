@@ -6,7 +6,7 @@
 - Protein powder (vegan works best for binding) × 2-3 scoops
 - Peanut butter × 3 tbsp
 - Oats × 1 cup
-- Sprinkle mix × 1/4 cup  
+- Sprinkle mix × $\frac{1}{4}$ cup  
 - Vanilla extract x 1 tsp
 - Cinnamon × 1 tsp
 - Dessicated coconut × approx. 30g
