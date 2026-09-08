@@ -11,14 +11,12 @@
 - Cinnamon × 1 tsp
 - Dessicated coconut × approx. 30g
 - Oatmilk (optional)
----
 
 ## Utensils
 - Mixing bowl     
 - Wooden spoon
 - Fork for mashing    
 - Table and teaspoons
----
 
 ## Terms
 **Sprinkle mix:** A mixture of equal parts dessicated coconut, chia seeds and mixed seeds.
